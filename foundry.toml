@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Siren Protocol reentrancy exploit — Sept 2021
+fork_block_number = 18681881
